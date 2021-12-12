@@ -3,7 +3,7 @@ Means Web App | Fintech solution for Africa. by #5_189_means-for-all | EU: Afric
 Intech solution for people from rural communitites , helping them manage and utilise their financial recources
 .
 Live demo
-www.ycryptoaccount.com (new domain coming soon )
+www.ycryptoaccount.com (Main domain name for Means coming soon #means.org #means.com )
 Login Details:
 UserName: test
 password: test
